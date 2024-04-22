@@ -13,7 +13,7 @@
         Spring Boot, Node.js, Vue.js, Bootstrap, AngularJS, Struts, React Native
     </p>
     <p>
-        <strong>💾 Especializada en bases de datos:</strong>
+        <strong>💾 Bases de datos:</strong>
         <br>
         MySQL, Oracle
     </p>
