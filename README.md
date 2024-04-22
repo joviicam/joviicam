@@ -3,6 +3,42 @@
 ###
 
 <h5 align="left">🔭 I’m currently working on ExCLI<br>💬 Ask me about React-native, Angular js, Mysql and TypeScript<br>📫 How to reach me joviicam9@gmail.com</h5>
+<p>
+        <strong>🛠️ Tecnologías y lenguajes que manejo:</strong>
+        <br>
+        JavaScript, Java, TypeScript, HTML5, CSS
+        <br>
+        Kotlin, C++, PHP, Python
+        <br>
+        Spring Boot, Node.js, Vue.js, Bootstrap, AngularJS, Struts, React Native
+    </p>
+    <p>
+        <strong>💾 Especializada en bases de datos:</strong>
+        <br>
+        MySQL, Oracle
+    </p>
+    <p>
+        <strong>💡 Experiencia laboral destacada:</strong>
+        <br>
+        Becaria en el Centro de Desarrollo de Software UTEZ
+        <br>
+        Proyectos:
+        <br>
+        SGM-099: Sistema gestor de mediciones de calidad de actividades
+        <br>
+        ExCLI: Control sistematizado de horarios y servicios en áreas de CAIRF y SPA
+    </p>
+    <p>
+        <strong>🌟 Habilidades blandas:</strong>
+        <br>
+        Liderazgo natural
+        <br>
+        Coordinación y organización de equipos
+        <br>
+        Capacidad para trabajar bajo presión
+        <br>
+        Responsabilidad y compromiso
+    </p>
 
 
 ###
