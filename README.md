@@ -10,7 +10,7 @@
         <br>
         Kotlin, C++, PHP, Python
         <br>
-        Spring Boot, Node.js, Vue.js, Bootstrap, AngularJS, Struts, React Native
+        Spring Boot, Node.js, Vue.js, Bootstrap, AngularJS, Struts, React Native, Wordpress
     </p>
     <p>
         <strong>💾 Bases de datos:</strong>
