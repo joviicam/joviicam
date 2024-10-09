@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently working on ExCLI<br>💬 Ask me about React-native, Angular js, Mysql and TypeScript<br>📫 How to reach me joviicam9@gmail.com</h5>
+<h5 align="left">🔭 I’m currently working in CDS<br>💬 Ask me about JavaScript, React-native, Angular js, Mysql and TypeScript<br>📫 How to reach me joviicam9@gmail.com</h5>
 <p>
         <strong>🛠️ Tecnologías y lenguajes que manejo:</strong>
         <br>
@@ -27,6 +27,8 @@
         SGM-099: Sistema gestor de mediciones de calidad de actividades
         <br>
         ExCLI: Control sistematizado de horarios y servicios en áreas de CAIRF y SPA
+        <br>
+        UTEZ-PAGE: Página web para la universidad UTEZ
     </p>
     <p>
         <strong>🌟 Habilidades blandas:</strong>
