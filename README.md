@@ -6,16 +6,18 @@
 <p>
         <strong>🛠️ Tecnologías y lenguajes que manejo:</strong>
         <br>
-        JavaScript, Java, TypeScript, HTML5, CSS
+        JavaScript, Java, TypeScript, Dart, HTML5, CSS
         <br>
         Kotlin, C++, PHP, Python
         <br>
-        Spring Boot, Node.js, Vue.js, Bootstrap, AngularJS, Struts, React Native, Wordpress
+        Spring Boot, Node.js, Struts
+        <br>
+        Vue.js, Nuxt.js, AngularJS, React, Flutter, React Native, Wordpress, Bootstrap, Tailwind
     </p>
     <p>
         <strong>💾 Bases de datos:</strong>
         <br>
-        MySQL, Oracle
+        MySQL, Oracle, MongoDB
     </p>
     <p>
         <strong>💡 Experiencia laboral destacada:</strong>
@@ -29,6 +31,8 @@
         ExCLI: Control sistematizado de horarios y servicios en áreas de CAIRF y SPA
         <br>
         UTEZ-PAGE: Página web para la universidad UTEZ
+        <br>
+        TUJPA-Kids: Applicación móvil para el Tribunal Unitario de Justicia para el Adolescente de Morelos
     </p>
     <p>
         <strong>🌟 Habilidades blandas:</strong>
