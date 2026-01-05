@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently working in CDS<br>💬 Ask me about JavaScript, React-native, Angular js, Mysql and TypeScript<br>📫 How to reach me joviicam9@gmail.com</h5>
+<h5 align="left">🔭 I’m currently working in rocket code<br>💬 Ask me about JavaScript, React-native, Angular js, Mysql and TypeScript<br>📫 How to reach me joviicam9@gmail.com</h5>
 <p>
         <strong>🛠️ Tecnologías y lenguajes que manejo:</strong>
         <br>
